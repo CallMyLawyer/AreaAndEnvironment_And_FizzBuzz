@@ -1,0 +1,11 @@
+C:\Users\acer\RiderProjects\Area\FizzBuzz_Model\bin\Debug\net6.0\FizzBuzz_Model.deps.json
+C:\Users\acer\RiderProjects\Area\FizzBuzz_Model\bin\Debug\net6.0\FizzBuzz_Model.dll
+C:\Users\acer\RiderProjects\Area\FizzBuzz_Model\bin\Debug\net6.0\FizzBuzz_Model.pdb
+C:\Users\acer\RiderProjects\Area\FizzBuzz_Model\obj\Debug\net6.0\FizzBuzz_Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\RiderProjects\Area\FizzBuzz_Model\obj\Debug\net6.0\FizzBuzz_Model.AssemblyInfoInputs.cache
+C:\Users\acer\RiderProjects\Area\FizzBuzz_Model\obj\Debug\net6.0\FizzBuzz_Model.AssemblyInfo.cs
+C:\Users\acer\RiderProjects\Area\FizzBuzz_Model\obj\Debug\net6.0\FizzBuzz_Model.csproj.CoreCompileInputs.cache
+C:\Users\acer\RiderProjects\Area\FizzBuzz_Model\obj\Debug\net6.0\FizzBuzz_Model.dll
+C:\Users\acer\RiderProjects\Area\FizzBuzz_Model\obj\Debug\net6.0\refint\FizzBuzz_Model.dll
+C:\Users\acer\RiderProjects\Area\FizzBuzz_Model\obj\Debug\net6.0\FizzBuzz_Model.pdb
+C:\Users\acer\RiderProjects\Area\FizzBuzz_Model\obj\Debug\net6.0\ref\FizzBuzz_Model.dll

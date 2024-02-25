@@ -1,0 +1,28 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9e984c68_002D0548_002D46a1_002D8fab_002D2ad8fb839ba5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Calculate_Calculate_The_Area_of_circle" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::CDD2EC7D-2AF8-4CE2-9DF0-341B021B9C0F::net6.0::Area_Test_Units.UnitTest1.Circle_throws_exception_when_radius_is_zero_or_negative&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CDD2EC7D-2AF8-4CE2-9DF0-341B021B9C0F::net6.0::Area_Test_Units.UnitTest1.Circle_Calculate_The_Area_of_circle&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CDD2EC7D-2AF8-4CE2-9DF0-341B021B9C0F::net6.0::Area_Test_Units.UnitTest1.Rectangle_Calculate_the_area_of_rectangle&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CDD2EC7D-2AF8-4CE2-9DF0-341B021B9C0F::net6.0::Area_Test_Units.UnitTest1.Rectangle_Throws_Exception_When_length_is_zero_or_negative&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CDD2EC7D-2AF8-4CE2-9DF0-341B021B9C0F::net6.0::Area_Test_Units.UnitTest1.Rectangle_throws_exception_when_width_is_zero_or_negative&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CDD2EC7D-2AF8-4CE2-9DF0-341B021B9C0F::net6.0::Area_Test_Units.UnitTest1.Square_calculate_the_area_of_square&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CDD2EC7D-2AF8-4CE2-9DF0-341B021B9C0F::net6.0::Area_Test_Units.UnitTest1.Square_throws_exception_when_length_is_zero_or_negative&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CDD2EC7D-2AF8-4CE2-9DF0-341B021B9C0F::net6.0::Area_Test_Units.UnitTest1.Triangle_calculate_the_area_of_triangle&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CDD2EC7D-2AF8-4CE2-9DF0-341B021B9C0F::net6.0::Area_Test_Units.UnitTest1.Triangle_throws_exception_when_base_is_zero_or_negative&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CDD2EC7D-2AF8-4CE2-9DF0-341B021B9C0F::net6.0::Area_Test_Units.UnitTest1.Triangle_throws_exception_when_height_is_zero_or_negative&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CDD2EC7D-2AF8-4CE2-9DF0-341B021B9C0F::net6.0::Area_Test_Units.UnitTest1.Circle_Calculate_The_environment_of_circle&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CDD2EC7D-2AF8-4CE2-9DF0-341B021B9C0F::net6.0::Area_Test_Units.UnitTest1.Rectangle_Calculate_the_environment_of_rectangle&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CDD2EC7D-2AF8-4CE2-9DF0-341B021B9C0F::net6.0::Area_Test_Units.UnitTest1.Triangle_Throws_exception_when_length_is_zero_or_negative&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CDD2EC7D-2AF8-4CE2-9DF0-341B021B9C0F::net6.0::Area_Test_Units.UnitTest1.Triangle_calculate_the_environment_of_triangle&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CDD2EC7D-2AF8-4CE2-9DF0-341B021B9C0F::net6.0::Area_Test_Units.UnitTest1.SquareEnvironment_throws_exception_when_length_is_zero_or_negative&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CDD2EC7D-2AF8-4CE2-9DF0-341B021B9C0F::net6.0::Area_Test_Units.UnitTest1.SquareArea_throws_exception_when_length_is_zero_or_negative&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CDD2EC7D-2AF8-4CE2-9DF0-341B021B9C0F::net6.0::Area_Test_Units.UnitTest1.Square_calculate_the_environment_of_square&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CDD2EC7D-2AF8-4CE2-9DF0-341B021B9C0F::net6.0::Area_Test_Units.UnitTest1.CircleArea_throws_exception_when_radius_is_zero_or_negative&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CDD2EC7D-2AF8-4CE2-9DF0-341B021B9C0F::net6.0::Area_Test_Units.UnitTest1.CircleEnvironment_throws_exception_when_radius_is_zero_or_negative&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CDD2EC7D-2AF8-4CE2-9DF0-341B021B9C0F::net6.0::Area_Test_Units.UnitTest1.RectangleArea_Throws_Exception_When_length_is_zero_or_negative&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CDD2EC7D-2AF8-4CE2-9DF0-341B021B9C0F::net6.0::Area_Test_Units.UnitTest1.RectangleArea_throws_exception_when_width_is_zero_or_negative&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CDD2EC7D-2AF8-4CE2-9DF0-341B021B9C0F::net6.0::Area_Test_Units.UnitTest1.RectangleEnvironment_Throws_Exception_When_length_is_zero_or_negative&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CDD2EC7D-2AF8-4CE2-9DF0-341B021B9C0F::net6.0::Area_Test_Units.UnitTest1.RectangleEnvironment_throws_exception_when_width_is_zero_or_negative&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

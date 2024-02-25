@@ -1,0 +1,11 @@
+C:\Users\acer\RiderProjects\Area\AreaAndEnvironment_Model\bin\Debug\net6.0\AreaAndEnvironment_Model.deps.json
+C:\Users\acer\RiderProjects\Area\AreaAndEnvironment_Model\bin\Debug\net6.0\AreaAndEnvironment_Model.dll
+C:\Users\acer\RiderProjects\Area\AreaAndEnvironment_Model\bin\Debug\net6.0\AreaAndEnvironment_Model.pdb
+C:\Users\acer\RiderProjects\Area\AreaAndEnvironment_Model\obj\Debug\net6.0\AreaAndEnvironment_Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\RiderProjects\Area\AreaAndEnvironment_Model\obj\Debug\net6.0\AreaAndEnvironment_Model.AssemblyInfoInputs.cache
+C:\Users\acer\RiderProjects\Area\AreaAndEnvironment_Model\obj\Debug\net6.0\AreaAndEnvironment_Model.AssemblyInfo.cs
+C:\Users\acer\RiderProjects\Area\AreaAndEnvironment_Model\obj\Debug\net6.0\AreaAndEnvironment_Model.csproj.CoreCompileInputs.cache
+C:\Users\acer\RiderProjects\Area\AreaAndEnvironment_Model\obj\Debug\net6.0\AreaAndEnvironment_Model.dll
+C:\Users\acer\RiderProjects\Area\AreaAndEnvironment_Model\obj\Debug\net6.0\refint\AreaAndEnvironment_Model.dll
+C:\Users\acer\RiderProjects\Area\AreaAndEnvironment_Model\obj\Debug\net6.0\AreaAndEnvironment_Model.pdb
+C:\Users\acer\RiderProjects\Area\AreaAndEnvironment_Model\obj\Debug\net6.0\ref\AreaAndEnvironment_Model.dll

@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9e984c68_002D0548_002D46a1_002D8fab_002D2ad8fb839ba5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Calculate_Calculate_The_Area_of_circle" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::CDD2EC7D-2AF8-4CE2-9DF0-341B021B9C0F::net6.0::Area_Test_Units.EnvironmentTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CDD2EC7D-2AF8-4CE2-9DF0-341B021B9C0F::net6.0::Area_Test_Units.AreaTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2232EEEC-996C-4A91-8828-D1A6442EF125::net6.0::FizzBuzz_Tests.UnitTests.FizzBuzzTests.FizzBuzz_when_the_number_is_a_multiple_of_three&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2232EEEC-996C-4A91-8828-D1A6442EF125::net6.0::FizzBuzz_Tests.UnitTests.FizzBuzzTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

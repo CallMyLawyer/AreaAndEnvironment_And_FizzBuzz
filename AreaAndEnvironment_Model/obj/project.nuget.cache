@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tYsw6mQ18eyiBHZv4jLjKJjeeBIEU0z5ExgaRGO0Tag/FMl+N08kPrXGOir2Po18j3qWmz9CH8HPUSJTWa7ATQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acer\\RiderProjects\\Area\\AreaAndEnvironment_Model\\AreaAndEnvironment_Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
